@@ -3,15 +3,15 @@
 ## 3.2 Inch Capacitive
 3.2 Inch IPS CTP ILI9341 FT6236 Full View Capacitive Touch Yellow Board 14p ESP32 display
 https://vi.aliexpress.com/item/1005006952065332.html
-![[Pasted image 20241026170429.png]]
+![["Pasted image 20241026170429.png"]]
 
 ## 4.0 Inch Capacitive
 New Electronic IPS 4.0 Inch SPI Capacitive Touch Yellow Board Module ILI9488 FT6236 Esp32 14 pin 320* 480
 https://vi.aliexpress.com/item/1005007082906950.html
 
-![[./attachments/Pasted image 20241026171108.png]]
+![["./attachments/Pasted image 20241026171108.png"]]
 
-![[Pasted image 20241027173217.png]]
+![["Pasted image 20241027173217.png"]]
 
 
 ## 3.2 Inch Resistive
@@ -63,12 +63,12 @@ Chip selection of SPI bus for 11 t _ cs touch panel
 12 t _ din touch panel SPI bus data input
 13 t _ do touch panel SPI bus data output
 14 t _ IRQ touch panel interrupts IRQ signal.
-![[Pasted image 20241026170926.png]]
+![["Pasted image 20241026170926.png"]]
 ## 3.5 Inch Resistive
 3.5 inch TFT LCD Module with Touch Panel ILI9488 Driver 320x480 SPI port serial interface (9 IO) Touch ic XPT2046 for ard stm32
 https://vi.aliexpress.com/item/32985467436.html
 
-![[Pasted image 20241026170847.png]]
-![[Pasted image 20241026170820.png]]
-![[Pasted image 20241026170734.png]]
-![[Pasted image 20241026170804.png]]
+![["Pasted image 20241026170847.png"]]
+![["Pasted image 20241026170820.png"]]
+![["Pasted image 20241026170734.png"]]
+![["Pasted image 20241026170804.png"]]
