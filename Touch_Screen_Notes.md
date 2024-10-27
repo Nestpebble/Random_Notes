@@ -1,3 +1,10 @@
+
+## EasyEDA links
+https://easyeda.com/component/de5666d0e4bf4eb696479502c891fdd2
+https://easyeda.com/component/e0cde78d2a5646499022fe3e228f525b
+https://easyeda.com/component/61ca8cbef9434239a2f006b02e5863a7
+https://easyeda.com/component/d5ed24a7af45402d9c4109e3a50fa548
+
 ## 3.2 Inch Capacitive
 3.2 Inch IPS CTP ILI9341 FT6236 Full View Capacitive Touch Yellow Board 14p ESP32 display
 https://vi.aliexpress.com/item/1005006952065332.html
